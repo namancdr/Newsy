@@ -1,2 +1,2 @@
 # Newsy
-A news app with react and news api
+A news app built with react and news api !
