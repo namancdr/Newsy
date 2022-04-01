@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Newsy
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is an amazing News App built with ReactJs!
+It basically fetches News data from an online API.
+
+Features: You can filter news about a particular Category of you choice! 
+
 
 ## Available Scripts
 
